@@ -9,5 +9,5 @@ test('Add', () => {
 test('Multiply', () => {
     const result = multiply( 2, 3 );
 
-    expect( result ).toEqual( 5 );
+    expect( result ).toEqual( 6 );
 });
