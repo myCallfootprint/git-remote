@@ -1,0 +1,22 @@
+{
+  "name": "git-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/constructorlabs/git-remote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/constructorlabs/git-remote/issues"
+  },
+  "homepage": "https://github.com/constructorlabs/git-remote#readme",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
